@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning C++,Java,C#,Python
 - My Discord : GOLOK_KU#0500
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GOLOKKU)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **GOLOKKU/GOLOKKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
